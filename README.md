@@ -76,10 +76,3 @@ Feel free to experiment with different formats by changing the `tablefmt` parame
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Replace "your-username" and "your-repo" with your GitHub username and repository name. Customize the README further to provide specific details about your project, its features, and any additional information you want to include.
